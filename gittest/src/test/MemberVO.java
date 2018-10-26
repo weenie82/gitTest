@@ -12,8 +12,6 @@ public class MemberVO {
 	}
 	
 
-	public MemberVO();
-
 	public String getNo() {
 		return no;
 	}
