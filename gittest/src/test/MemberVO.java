@@ -4,7 +4,7 @@ public class MemberVO {
 	private String no;
 	private String age;
 	
-	public Membervo();
+	public MemberVO();
 	public String getNo() {
 		return no;
 	}
