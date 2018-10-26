@@ -4,16 +4,16 @@ public class MemberVO {
 	private String no;
 	private String age;
 	
-<<<<<<< HEAD
+
 	public MemberVO(String no, String age) {
 		super();
 		this.no = no;
 		this.age = age;
 	}
 	
-=======
+
 	public MemberVO();
->>>>>>> refs/remotes/origin/master
+
 	public String getNo() {
 		return no;
 	}
