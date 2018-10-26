@@ -3,6 +3,13 @@ package test;
 public class MemberVO {
 	private String no;
 	private String age;
+	
+	public MemberVO(String no, String age) {
+		super();
+		this.no = no;
+		this.age = age;
+	}
+	
 	public String getNo() {
 		return no;
 	}
@@ -15,7 +22,6 @@ public class MemberVO {
 	public void setAge(String age) {
 		this.age = age;
 	}
-	
 	
 
 }
