@@ -17,10 +17,14 @@
 		<li>git 명령어 - git init</li>
 		<li>git 명령어 - git init</li>
 	</ul>
-	<ul>
-		<li>jsp</li>
-		<li>jstl</li>
-		<li>el</li>
-	</ul>
+	<p><a href="http://www.naver.com">네이버</a></p>	
+	<p>스프링 주요 개념</p>
+	<p>AOP</p>
+	<p>DI</p>
+	
+	<script> 
+		location.href="http://www.google.com";
+	</script>
+	
 </body>
 </html>
